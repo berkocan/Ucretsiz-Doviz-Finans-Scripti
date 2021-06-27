@@ -3,4 +3,4 @@
 
 Canlı Demo : https://free.genelpara.com/
 
-İndirme Linki: https://free.genelpara.com/Dosyalar.rar
+İndirme Linki: https://free.genelpara.com/Dosyalar.zip
