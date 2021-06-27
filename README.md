@@ -1,4 +1,4 @@
-# Ucretsiz-DOviz-Finans-Scripti
+# Ucretsiz-Doviz-Finans-Scripti
 Ücretsiz döviz, altın, kripto para ve finans scripti
 
 Canlı Demo : https://free.genelpara.com/
